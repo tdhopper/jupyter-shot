@@ -1,0 +1,4 @@
+name: jupyter-shot
+dependencies:
+- python=3
+- ipython-notebook
